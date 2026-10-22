@@ -10,6 +10,9 @@ namespace QuanLySinhVien
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("He thong Quan Ly Sinh Vien");
+            Console.WriteLine("Da sua loi khong luu duoc diem thanh cong!");
+            Console.ReadKey();
         }
     }
 }

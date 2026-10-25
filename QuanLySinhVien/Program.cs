@@ -13,6 +13,8 @@ namespace QuanLySinhVien
             Console.WriteLine("He thong Quan Ly Sinh Vien");
             Console.WriteLine("Da sua loi khong luu duoc diem thanh cong!");
             Console.ReadKey();
+            Console.WriteLine("Them tinh Nang ABC!");
+            Console.ReadKey();
         }
     }
 }
